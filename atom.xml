@@ -2,15 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://piolab.github.io/atom.xml" rel="self"/>
-  <link href="http://piolab.github.io/"/>
-  <updated>2014-05-07T10:55:04+07:00</updated>
-  <id>http://piolab.github.io/</id>
+  <link href="http://cuongcua90.github.io/atom.xml" rel="self"/>
+  <link href="http://cuongcua90.github.io/"/>
+  <updated>2014-05-07T11:48:07+07:00</updated>
+  <id>http://cuongcua90.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Post on My Blog]]></title>
+    <link href="http://cuongcua90.github.io/blog/2014/05/07/first-post-on-my-blog/"/>
+    <updated>2014-05-07T11:46:31+07:00</updated>
+    <id>http://cuongcua90.github.io/blog/2014/05/07/first-post-on-my-blog</id>
+    <content type="html"><![CDATA[<h3>Bài viết đầu tiên</h3>
+
+<p>Blog này sẽ bao gồm vài bài dịch của tôi.</p>
+]]></content>
+  </entry>
   
 </feed>

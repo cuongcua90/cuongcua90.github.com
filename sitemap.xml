@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://piolab.github.io/robots.txt</loc>
+        <loc>http://cuongcua90.github.io/blog/2014/05/07/first-post-on-my-blog/</loc>
+        <lastmod>2014-05-07T11:47:49+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cuongcua90.github.io/robots.txt</loc>
         <lastmod>2014-04-17T08:50:58+07:00</lastmod>
     </url>
     <url>
-        <loc>http://piolab.github.io/blog/archives/</loc>
-        <lastmod>2014-04-17T08:50:58+07:00</lastmod>
+        <loc>http://cuongcua90.github.io/blog/archives/</loc>
+        <lastmod>2014-05-07T11:47:49+07:00</lastmod>
     </url>
     <url>
-        <loc>http://piolab.github.io/</loc>
-        <lastmod>2014-04-17T08:50:58+07:00</lastmod>
+        <loc>http://cuongcua90.github.io/</loc>
+        <lastmod>2014-05-07T11:47:49+07:00</lastmod>
     </url>
 </urlset>
